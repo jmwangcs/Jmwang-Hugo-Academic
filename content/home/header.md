@@ -17,7 +17,7 @@ design:
   background:
     image: slider_website.jpg
     image_darken: 0.5
-    image_size: cover
+    background-size:cover
     gradient_end: '#1976d2'
     gradient_start: '#004ba0'
     text_color_light: true
