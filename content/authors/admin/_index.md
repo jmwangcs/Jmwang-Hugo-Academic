@@ -77,9 +77,26 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+**Junming Wang** is currently an M.Phil. student in Computer Science at the [University of Hong Kong (HKU)](https://www.hku.hk/). He is a member of the **HKU Systems Software Lab** in the Department of Computer Science, advised by [Prof. Heming Cui](https://i.cs.hku.hk/~heming/). Junming Wang received his B.Eng degree with **First Class Honors** from Lanzhou Jiaotong University (LZJTU), China in 2022.</br>
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+His research interests mainly focus on the **Robot Perception** and **Robot Learning Systems**.For example, the following two aspects:</br>
+- **Robot Perception :** NeRF/3D Vision; SLAM/Point Cloud; Depth Estimation; 
+- **Robot Learning Systems :** Multi-Robot Systems; Distributed Robotic Learning; EdgeAI;
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+{{% callout note %}}
+ <ul style = "font-size: 19px;font-family:Georgia">
+        <li >
+          <span style="font-weight: bold;"> Research opportunities: </span><span style="color:red">I am happy to collaborate and/or answer questions about my research. If you are interested in research collaboration, please send me an email.</span> 
+			  </li>
+         <li>
+				<span style="font-weight: bold;"> Published Venues: </span> EI (2)✔ | Chinese Journal (3)✔ | China Patent (2)✔ | </br>
+			  </li>
+        <li>
+				<span style="font-weight: bold;"> Skills: </span> Pytorch  | Tensorflow  | ROS  | Java | C++  | RaspberryPi  | Jetson Nano  |</br>
+			  </li>
+  </ul>
+
+
+{{% /callout %}}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
