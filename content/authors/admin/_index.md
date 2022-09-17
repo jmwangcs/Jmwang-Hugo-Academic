@@ -1,39 +1,41 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Junming Wang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MPhil Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: The University of Hong Kong(HKU)
+    url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on robotic vision and distributed robotic systems.
 
 # Interests to show in About widget
 interests:
+  - 3D Vision (NeRF)
+  - Distributed Robot System
+  - SLAM & Point Cloud
+  - Edge Computing
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MPhil in Computer Science and Technology
+      institution: The University of Hong Kong(HKU)
+      year: 2022.09-2024.06
+    - course: BEng in Computer Science and Technology
+      institution: Lanzhou Jiaotong University(LZJTU)
+      year: 2018.09-2022.06
+    - course: Oxford Machine Learning Summer School
+      institution: AI for Global Goals & The University of Oxford
+      year: 2022.06-2022.08
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,19 +44,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: /#contact
+    label: jmwang.hku.cs@gmail.com    
+  - icon: pinterest
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://blog.csdn.net/smallEngineer?spm=1000.2115.3001.5343    
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com.hk/citations?user=yq72b6IAAAAJ&hl=zh-CN    
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/jmwang0117    
+  - display:
+      header: ture
+    link: https://www.linkedin.com/in/junming-wang-3b0973207/
     icon_pack: fab
-    link: https://www.linkedin.com/
+    icon: linkedin    
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/ComWjm
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
