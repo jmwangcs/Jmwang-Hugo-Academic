@@ -22,7 +22,7 @@ social:
   - icon: home
     icon_pack: fas
     link: http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm
-   - icon: dblp
+  - icon: dblp
     icon_pack: ai
     link: https://dblp.org/pid/26/755.html
 
