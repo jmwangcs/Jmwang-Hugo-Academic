@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Meet the Team
-subtitle:
+title: Several Outstanding Mentors and Collaborators
+subtitle: Cooperation time is more than **4 Months**
 
 content:
   # Choose which groups/teams of users to display.
