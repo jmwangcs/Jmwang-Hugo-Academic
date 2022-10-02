@@ -23,7 +23,7 @@ social:
     icon_pack: fas
     link: http://faculty.lzjtu.edu.cn/hjy/zh_CN/index.htm
    - icon: dblp
-    icon_pack: dblp
+    icon_pack: fas
     link: https://dblp.org/pid/26/755.html
 
 # Link to a PDF of your resume/CV from the About widget.
