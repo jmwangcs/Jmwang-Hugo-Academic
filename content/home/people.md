@@ -10,7 +10,7 @@ headless: true
 weight: 68
 
 title: Several Outstanding Mentors and Collaborators
-subtitle: Cooperation time is more than **4 Months**
+subtitle: Cooperation time is more than **6 Months**
 
 content:
   # Choose which groups/teams of users to display.
