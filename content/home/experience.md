@@ -31,9 +31,7 @@ experience:
     location: Oxford, UK 
     date_start: '2022-06-27'
     date_end: '2022-08-14'
-    description: |2-
-      - ML Fundamentals
-      - ML x Finance
+    
       
   - title: Summer Student - *USTC Online Summer School (2022)*
     company: University of Science and Technology of China
@@ -42,11 +40,7 @@ experience:
     location: Hefei, China
     date_start: '2022-07-04'
     date_end: '2022-07-09'
-    description: |2-
-      - Advances in Computer Graphics
- 
-
-    
+      
 
 
   - title: Python Intern - *Data Analysis Group*
@@ -55,11 +49,7 @@ experience:
     location: Zhangye, China
     date_start: '2021-01-01'
     date_end: '2021-04-01'
-    description: |2-
-      Topic : **Time Series Forecasting**  and  **Data Visualization**
-    
-  
-       
+        
         
   - title: Java Intern - *Technology Group*
     company: Hengsheng Electronic Technology Co., Ltd. 
@@ -67,12 +57,7 @@ experience:
     location: Zhangye, China
     date_start: '2020-02-01'
     date_end: '2020-04-01'
-    description: |2-
-        Technology stack :     
-        * Front-end : HTML5, CSS3, JavaScript, Bootstrap3
-        * Backend : Spring, SpringMVC, Mybatis
-   
-        
+          
         
   - title: Research Assistant
     company: Professor Huo Jiuyuan's Laboratory
@@ -81,11 +66,7 @@ experience:
     location: Lanzhou, China
     date_start: '2019-09-01'
     date_end: '2021-06-01'
-    description: |2-
-        Topic : **Edge Computing**  and  **AIoT**  and  **SAR Image Processing**        
-        * Published two EI conference papers and three Chinese journal papers
-        * Obtained two patents
-
+  
   
 design:
   columns: '2'
