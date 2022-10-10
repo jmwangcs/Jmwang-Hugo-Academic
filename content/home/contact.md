@@ -15,31 +15,23 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
-  # Contact details (edit or remove options as required)
-  email: jmwang.hku.cs@gmail.com
-  phone: 888 888 88 88
-  address:
+# Contact details (edit or remove options as required)
+email: jmwang.hku.cs@gmail.com
+phone: 888 888 88 88
+address:
     street: Pok Fu Lam Road
     city: Hong Kong SAR
       
     
    
   
-  directions:HKU Jockey Club Student Village III, 9 Lung Wah St, Kennedy Town, Hong Kong
-  office_hours:
+directions:HKU Jockey Club Student Village III, 9 Lung Wah St, Kennedy Town, Hong Kong
+office_hours:
     - 'Monday 10:00 to 22:00'
     - 'Saturday 10:00 to 22:00'
-  appointment_url: 'https://calendly.com'
-  contact_links:
+  
+contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
