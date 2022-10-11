@@ -31,7 +31,7 @@ experience:
     date_start: '2022-06-01'
     date_end: '2022-12-01'
     
-  - title: Summer Student - *Oxford Machine Learning Summer School (2022)*
+  - title: Summer Student - *Oxford Machine Learning Summer School*
     company: AI for Global Goals & The University of Oxford
     company_url: 'https://www.oxfordml.school/'
     company_logo: p5
@@ -40,7 +40,7 @@ experience:
     date_end: '2022-08-14'
     
       
-  - title: Summer Student - *USTC Online Summer School (2022)*
+  - title: Summer Student - *USTC Online Summer School*
     company: University of Science and Technology of China
     company_url: 'http://staff.ustc.edu.cn/~renjiec/SummerSchool_2022/index.html'
     company_logo: p6
