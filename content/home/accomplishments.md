@@ -20,7 +20,7 @@ table {
   font-family: "Georgia";
   font-size:19px;
   overflow-y: auto; 
-  max-height:450px;
+  max-height:350px;
 }
 table th:first-of-type {
     width: 11%;
