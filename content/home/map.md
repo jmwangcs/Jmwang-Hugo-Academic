@@ -21,5 +21,5 @@ design:
   }
 </style>
 <body>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=NYcYaNXAzcLVwspiPWtrn9MSUaGslDIuN8grHSJbAH4'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=NYcYaNXAzcLVwspiPWtrn9MSUaGslDIuN8grHSJbAH4&cmo=ff9d53&cmn=68cc3a'></script>
  <body>
