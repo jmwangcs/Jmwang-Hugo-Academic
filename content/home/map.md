@@ -1,6 +1,6 @@
 ---
 
-title: Maps
+
 weight: 325
 design:
    columns: '1'
@@ -8,14 +8,14 @@ design:
 <style type="text/css"> 
  pre {
   overflow-y: auto;
-  max-height: 100px;
+  max-height: 200px;
 }
 .btn-toolbar {
     
     justify-content: center;
 }
 .filter_button{
-  width:240px;
+  width:140px;
   
   
   }
