@@ -16,7 +16,7 @@ design:
   columns: '1'
   background:
     image: slider_website.jpg
-    image_darken: 0.6
+    image_darken: 0.8
     size: cover
     image_size: cover
     repeat: no-repeat
@@ -29,8 +29,8 @@ advanced:
 ---
 
 <h1>Wecolme to Mr.Junming(James) WANG 's Homepage</h1>
-<div style="width: 100%;height: 100%;">
-  <div style="font-size: 29px; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;position: absolute; top: 50%; left: 50%;transform: translate(-50%, -50%);text-align: center;font-family:Georgia; color:white">
+<div style="width: 100%;height: 100%;color:white;">
+  <div style="font-size: 29px; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;position: absolute; top: 50%; left: 50%;transform: translate(-50%, -50%);text-align: center;font-family:Georgia; ">
     👋 Hi, there! I'm <span style="font-weight:bold;">Junming (James) WANG</span>, an MPhil student studying Computer Science at the University of Hong Kong (HKU).
 
   </div>
