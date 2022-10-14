@@ -16,7 +16,7 @@ design:
   columns: '1'
   background:
     image: slider_website.jpg
-    image_darken: 0.8
+    image_darken: 0.5
     size: cover
     image_size: cover
     repeat: no-repeat
