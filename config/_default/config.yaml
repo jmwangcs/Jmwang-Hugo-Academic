@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: jmWang # Website name
-baseURL: 'https://jmwangcs.netlify.app/' # Website URL
+baseURL: 'https://jmwangcs.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
